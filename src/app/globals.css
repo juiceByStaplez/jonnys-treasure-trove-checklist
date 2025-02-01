@@ -19,3 +19,14 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.w-50vw {
+  width: 50vw;
+}
+
+.treasure-list-grid {
+  grid-template-columns: 24px 25px 1fr;
+  column-gap: 8px;
+  grid-template-rows: max-content;
+  align-items: center;
+}

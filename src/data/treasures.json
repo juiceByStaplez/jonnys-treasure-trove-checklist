@@ -1,0 +1,530 @@
+[
+  {
+    "title": "No. 1 Fledgling Chocobo Jockey",
+    "description": "In Hustle de Chocobo at Bill’s Ranch in the Grasslands, beat 0:31.",
+    "number": 1,
+    "isCollected": false
+  },
+  {
+    "title": "No. 2 Soaring Chocobo Jockey",
+    "description": "In the Cosmo Canyon Region, beat the top time in all three Glide de Chocobo Training Courses.",
+    "number": 2,
+    "isCollected": false
+  },
+  {
+    "title": "No. 3 Salientian Seal of Master",
+    "description": "In Under Junon’s Jumpfrog, survive Whirligig Whack for over 1:20.",
+    "number": 3,
+    "isCollected": false
+  },
+  {
+    "title": "No. 4 Peerless Polliwog",
+    "description": "In Under Junon’s Jumpfrog, survive Ribbiting Rollers for 1:20, starting in Chapter 12.",
+    "number": 4,
+    "isCollected": false
+  },
+  {
+    "title": "No. 5 Dolphin Stuntman",
+    "description": "In Under Junon, complete the Dolphin Show course in under 1:40, starting in Chapter 12.",
+    "number": 5,
+    "isCollected": false
+  },
+  {
+    "title": "No. 6 Pride of the Condor Cavalry",
+    "description": "In the Junon Region, win all four Hard Mode Fort Condor boards.",
+    "number": 6,
+    "isCollected": false
+  },
+  {
+    "title": "No. 7 Award for Outstanding Performance",
+    "description": "In Chapter 4, finish the parade with 100,000 upvotes or more. This requires two formations to be at least Two Star difficulty and an almost perfect performance.",
+    "number": 7,
+    "isCollected": false
+  },
+  {
+    "title": "No. 8 Presidential Commendation",
+    "description": "In Chapter 4, finish the parade.",
+    "number": 8,
+    "isCollected": false
+  },
+  {
+    "title": "No. 9 QB Tournament Champion",
+    "description": "In Chapter 5, participate in the surprise exhibition match at the end of the Queen's Blood tournament.",
+    "number": 9,
+    "isCollected": false
+  },
+  {
+    "title": "No. 10 Buccaneer Blaster",
+    "description": "In Costa del Sol’s Pirate’s Rampage, beat 15,000 points on the Brigantine stage.",
+    "number": 10,
+    "isCollected": false
+  },
+  {
+    "title": "No. 11 Pirate King’s Marksman",
+    "description": "In Costa del Sol’s Pirate’s Rampage, beat 22,000 points on the Ghost Ship stage.",
+    "number": 11,
+    "isCollected": false
+  },
+  {
+    "title": "No. 12 Neophyte QB Strategian",
+    "description": "In Costa del Sol’s Card Carnival, beat all seven card puzzles.",
+    "number": 12,
+    "isCollected": false
+  },
+  {
+    "title": "No. 13 Bloody Brilliant Card Sharp",
+    "description": "In Costa del Sol’s Card Carnival, complete the Advanced Card Puzzles, starting in Chapter 12.",
+    "number": 13,
+    "isCollected": false
+  },
+  {
+    "title": "No. 14 Legendary Card Collector",
+    "description": "In Costa del Sol’s Card Carnival, complete the Collection Challenges, starting in Chapter 12.",
+    "number": 14,
+    "isCollected": false
+  },
+  {
+    "title": "No. 15 Madder Machinator",
+    "description": "In Costa del Sol’s Card Carnival, complete the Skill Drills, starting in Chapter 12.",
+    "number": 15,
+    "isCollected": false
+  },
+  {
+    "title": "No. 16 King of the Jungle",
+    "description": "In Costa del Sol’s Run Wild, finish in 1st with no tie in Free-for-All.",
+    "number": 16,
+    "isCollected": false
+  },
+  {
+    "title": "No. 17 Red Bolt XIII",
+    "description": "In Costa del Sol’s Run Wild, finish Time Trial in under 2:30.",
+    "number": 17,
+    "isCollected": false
+  },
+  {
+    "title": "No. 18 Ab-Fab",
+    "description": "In the Corel Costline’s Training Gym, beat Jules in the Pro-Level Crunch-Off.",
+    "number": 18,
+    "isCollected": false
+  },
+  {
+    "title": "No. 19 Speedy Motorcyclist",
+    "description": "In The Gold Saucer’s G-Bike, beat 30,000 points in the Standard course.",
+    "number": 19,
+    "isCollected": false
+  },
+  {
+    "title": "No. 20 Crazy Motorcyclist",
+    "description": "In The Gold Saucer’s G-Bike, beat 31,000 points in the Expert course, starting in Chapter 12.",
+    "number": 20,
+    "isCollected": false
+  },
+  {
+    "title": "No. 21 Welterweight Brawler",
+    "description": "In The Gold Saucer’s 3D Brawler, defeat all three standard opponents.",
+    "number": 21,
+    "isCollected": false
+  },
+  {
+    "title": "No. 22 Heavyweight Brawler",
+    "description": "In The Gold Saucer’s 3D Brawler, defeat Ifrit, starting in Chapter 12.",
+    "number": 22,
+    "isCollected": false
+  },
+  {
+    "title": "No. 23 Super Heavyweight Brawler",
+    "description": "In The Gold Saucer’s 3D Brawler, defeat Sephiroth, starting in Chapter 12.",
+    "number": 23,
+    "isCollected": false
+  },
+  {
+    "title": "No. 24 Rookie Ranger",
+    "description": "In The Gold Saucer’s Galactic Saviors, beat 35,000 points in the Standard mission.",
+    "number": 24,
+    "isCollected": false
+  },
+  {
+    "title": "No. 25 SOLDIER: Galaxy Class",
+    "description": "In The Gold Saucer’s Galactic Saviors, beat 45,000 points in the Expert mission, starting in Chapter 12.",
+    "number": 25,
+    "isCollected": false
+  },
+  {
+    "title": "No. 26 Chocobo Bug Boy",
+    "description": "In Chapter 8, win the Chocobo Cup race for Gus.",
+    "number": 26,
+    "isCollected": false
+  },
+  {
+    "title": "No. 27 Fleet-footed Jockey",
+    "description": "In The Gold Saucer’s Chocobo Square, win all Grade III races.",
+    "number": 27,
+    "isCollected": false
+  },
+  {
+    "title": "No. 28 Chocobo Whisperer",
+    "description": "In The Gold Saucer’s Chocobo Square, win all Grade II races, starting in Chapter 12.",
+    "number": 28,
+    "isCollected": false
+  },
+  {
+    "title": "No. 29 Champion Jockey",
+    "description": "In The Gold Saucer’s Chocobo Square, win the Gold Cup, starting in Chapter 12.",
+    "number": 29,
+    "isCollected": false
+  },
+  {
+    "title": "No. 30 Card Savant",
+    "description": "In The Gold Saucer, beat all the Queen’s Blood Elementary Card Challenges.",
+    "number": 30,
+    "isCollected": false
+  },
+  {
+    "title": "No. 31 Card Whiz",
+    "description": "In The Gold Saucer, beat all the Queen’s Blood Advanced Challenges, starting in Chapter 12.",
+    "number": 31,
+    "isCollected": false
+  },
+  {
+    "title": "No. 32 Card Slayer",
+    "description": "In The Gold Saucer, beat all the Queen’s Blood Survival Challenges, starting in Chapter 12.",
+    "number": 32,
+    "isCollected": false
+  },
+  {
+    "title": "No. 33 Twin Muscleheads",
+    "description": "In The Gold Saucer’s Musclehead Colosseum, win all “2 (Easy)” Challenges.",
+    "number": 33,
+    "isCollected": false
+  },
+  {
+    "title": "No. 34 The Six Musc-keteers",
+    "description": "In The Gold Saucer’s Musclehead Colosseum, beat all “2 (Advanced)” Challenges, starting in Chapter 12.",
+    "number": 34,
+    "isCollected": false
+  },
+  {
+    "title": "No. 35 Twin Team Titans",
+    "description": "In The Gold Saucer’s Musclehead Colosseum, win all “6 (Easy)” Challenges.",
+    "number": 35,
+    "isCollected": false
+  },
+  {
+    "title": "No. 36 The Six Muc-keteers",
+    "description": "In The Gold Saucer’s Musclehead Colosseum, beat all “6 (Advanced)” Challenges, starting in Chapter 12.",
+    "number": 36,
+    "isCollected": false
+  },
+  {
+    "title": "No. 37 Best Actor: Cloud",
+    "description": "S-Rank the Gold Saucer's rendition of Loveless.",
+    "number": 37,
+    "isCollected": false
+  },
+  {
+    "title": "No. 38 Best Actress: Tifa",
+    "description": "S-Rank the Gold Saucer's rendition of Loveless with Tifa in the cast. This requires not having Yuffie, Barret or Red XII as your date, as she otherwise is not in the cast.",
+    "number": 38,
+    "isCollected": false
+  },
+  {
+    "title": "No. 39 Best Actress: Aerith",
+    "description": "S-Rank the Gold Saucer's rendition of Loveless.",
+    "number": 39,
+    "isCollected": false
+  },
+  {
+    "title": "No. 40 Best Supporting Actor: Barret",
+    "description": "S-Rank the Gold Saucer's rendition of Loveless.",
+    "number": 40,
+    "isCollected": false
+  },
+  {
+    "title": "No. 41 Best Actress: Yuffie",
+    "description": "S-Rank the Gold Saucer's rendition of Loveless with Yuffie in the cast. This requires having her as your date in Chapter 12, as she otherwise is not in the cast.",
+    "number": 41,
+    "isCollected": false
+  },
+  {
+    "title": "No. 42 Best Supporting Animal: Red XIII",
+    "description": "S-Rank the Gold Saucer's rendition of Loveless.",
+    "number": 42,
+    "isCollected": false
+  },
+  {
+    "title": "No. 43 Best Feline Narration: Cait Sith",
+    "description": "S-Rank the Gold Saucer's Rendition of Loveless.",
+    "number": 43,
+    "isCollected": false
+  },
+  {
+    "title": "No. 44 Dustbowl Smasher",
+    "description": "In The Dustbowl’s Desert Rush, beat 42,000 points in the Standard course.",
+    "number": 44,
+    "isCollected": false
+  },
+  {
+    "title": "No. 45 Dustbowl Demolisher",
+    "description": "In The Dustbowl’s Desert Rush, beat 55,000 points in the Challenging course, starting in Chapter 12.",
+    "number": 45,
+    "isCollected": false
+  },
+  {
+    "title": "No. 46 Sylkis Cup Champion",
+    "description": "In The Dustbowl’s Beast Battleground, beat all Sylkis Cup challenges.",
+    "number": 46,
+    "isCollected": false
+  },
+  {
+    "title": "No. 47 Prison Tourney Champion",
+    "description": "In The Dustbowl’s Beast Battleground, beat all Prison Tourney challenges.",
+    "number": 47,
+    "isCollected": false
+  },
+  {
+    "title": "No. 48 Belles of the Ball",
+    "description": "In The Dustbowl’s Beast Battleground, complete the Sand and Circuses Side Quest, starting in Chapter 12.",
+    "number": 48,
+    "isCollected": false
+  },
+  {
+    "title": "No. 49 1,000 Needle Pincushion",
+    "description": "In the Corel Desert, complete all Cactuar Crush challenges on Normal Mode. Can only be done at the end of Chapter 12.",
+    "number": 49,
+    "isCollected": false
+  },
+  {
+    "title": "No. 50 10,000 Needle Pincushion",
+    "description": "In the Corel Desert, complete all Cactuar Crush challenges on Hard Mode.",
+    "number": 50,
+    "isCollected": false
+  },
+  {
+    "title": "No. 51 Gambit Technician",
+    "description": "In the Cosmo Canyon Region, complete all Gears and Gambits Challenges on Hard Mode.",
+    "number": 51,
+    "isCollected": false
+  },
+  {
+    "title": "No. 52 Adequately Functional Specimen",
+    "description": "In the Nibel Region's Shinra Manor, complete all Preliminary Trial Challenges in the Shinra Combat Simulator, starting in Chapter 12.",
+    "number": 52,
+    "isCollected": false
+  },
+  {
+    "title": "No. 53 Somewhat Intriguing Specimen",
+    "description": "In the Nibel Region's Shinra Manor, complete all Evaluation Combat Challenges in the Shinra Combat Simulator, starting in Chapter 12.",
+    "number": 53,
+    "isCollected": false
+  },
+  {
+    "title": "No. 54 MAI’s Participation Award",
+    "description": "Complete all of Chadley’s Normal Combat Challenges in his simulator.",
+    "number": 54,
+    "isCollected": false
+  },
+  {
+    "title": "No. 55 MAI's Gold Star",
+    "description": "Complete all of Chadley’s Brutal and Legendary Combat Challenges in his simulator.",
+    "number": 55,
+    "isCollected": false
+  },
+  {
+    "title": "No. 56 Peerless Pianist",
+    "description": "Achieve A-Rank on the first six piano Sheet Music pieces, then talk to Dorian.",
+    "number": 56,
+    "isCollected": false
+  },
+  {
+    "title": "No. 57 Shutterbug Supreme",
+    "description": "Complete all the Photo Challenges for Snaps.",
+    "number": 57,
+    "isCollected": false
+  },
+  {
+    "title": "No. 58 Blood Champion",
+    "description": "Attain the highest possible rank in Queen’s Blood by beating the Shadowblood Queen.",
+    "number": 58,
+    "isCollected": false
+  },
+  {
+    "title": "No. 59 The True Ultimate Party Animal",
+    "description": "In The Gold Saucer, complete the \"Can't Stop Won't Stop\" Side Quest, starting in Chapter 13.",
+    "number": 59,
+    "isCollected": false
+  },
+  {
+    "title": "No. 60 PLAY ARTS Rest Spot",
+    "description": "Dig up with a Chocobo in the Grasslands.",
+    "number": 60,
+    "isCollected": false
+  },
+  {
+    "title": "No. 61 PLAY ARTS Sweeper",
+    "description": "Dig up with a Chocobo in the Junon Region.",
+    "number": 61,
+    "isCollected": false
+  },
+  {
+    "title": "No. 62 PLAY ARTS Wheelie",
+    "description": "Dig up with a Chocobo in the Corel Coastline.",
+    "number": 62,
+    "isCollected": false
+  },
+  {
+    "title": "No. 63 PLAY ARTS Buggy",
+    "description": "Dig up with a Chocobo in the Gongaga Region.",
+    "number": 63,
+    "isCollected": false
+  },
+  {
+    "title": "No. 64 PLAY ARTS Tiny Bronco",
+    "description": "Dig up with a Chocobo in the Cosmo Canyon Region.",
+    "number": 64,
+    "isCollected": false
+  },
+  {
+    "title": "No. 65 PLAY ARTS Shinra Box",
+    "description": "Dig up with a Chocobo in the Nibel Region.",
+    "number": 65,
+    "isCollected": false
+  },
+  {
+    "title": "No. 66 Stuffed Moogle",
+    "description": "Complete all Moogle Mischief minigames.",
+    "number": 66,
+    "isCollected": false
+  },
+  {
+    "title": "No. 67 Stuffed Stamp",
+    "description": "In Chapter 4, survive the escape from Junon with all five 7th Infantry Troopers alive, then beat Roche.",
+    "number": 67,
+    "isCollected": false
+  },
+  {
+    "title": "No. 68 Stuffed Fat Moogle",
+    "description": "In Chapter 11, score 10 or more in the box-throwing challenge in the elevator to Section S.",
+    "number": 68,
+    "isCollected": false
+  },
+  {
+    "title": "No. 69 Stuffed Bomb",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 69,
+    "isCollected": false
+  },
+  {
+    "title": "No. 70 Stuffed Chocobo",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 70,
+    "isCollected": false
+  },
+  {
+    "title": "No. 71 Stuffed Cactuar",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 71,
+    "isCollected": false
+  },
+  {
+    "title": "No. 72 Stuffed Fat Chocobo",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 72,
+    "isCollected": false
+  },
+  {
+    "title": "No. 73 Stuffed Tonberry",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 73,
+    "isCollected": false
+  },
+  {
+    "title": "No. 74 Space Ranger PLAY ARTS Figure",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 74,
+    "isCollected": false
+  },
+  {
+    "title": "No. 75 PLAY ARTS Starfighter",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 75,
+    "isCollected": false
+  },
+  {
+    "title": "No. 76 PLAY ARTS G-Bike",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 76,
+    "isCollected": false
+  },
+  {
+    "title": "No. 77 Queen’s Blood Gameboard",
+    "description": "At The Gold Saucer, win all the Easy Queen’s Blood matches, then buy for 30 GP.",
+    "number": 77,
+    "isCollected": false
+  },
+  {
+    "title": "No. 78 3D Brawler Cloud Figurine",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 78,
+    "isCollected": false
+  },
+  {
+    "title": "No. 79 3D Brawler Pugilist Figurine",
+    "description": "At The Gold Saucer, beat Pugilist in 3D Brawler, then buy for 30 GP.",
+    "number": 79,
+    "isCollected": false
+  },
+  {
+    "title": "No. 80 3D Brawler Fat Moogle Figurine",
+    "description": "At The Gold Saucer, beat Fat Moogle in 3D Brawler, then buy for 30 GP.",
+    "number": 80,
+    "isCollected": false
+  },
+  {
+    "title": "No. 81 3D Brawler Dio Figurine",
+    "description": "At The Gold Saucer, beat Dio in 3D Brawler, then buy for 30 GP.",
+    "number": 81,
+    "isCollected": false
+  },
+  {
+    "title": "No. 82 3D Brawler Shiva Figurine",
+    "description": "At The Gold Saucer, beat Shiva in 3D Brawler, then buy for 30 GP, starting in Chapter 12.",
+    "number": 82,
+    "isCollected": false
+  },
+  {
+    "title": "No. 83 3D Brawler Ifrit Figurine",
+    "description": "At The Gold Saucer, beat Ifrit in 3D Brawler, then buy for 30 GP, starting in Chapter 12.",
+    "number": 83,
+    "isCollected": false
+  },
+  {
+    "title": "No. 84 Masamune Replica",
+    "description": "At The Gold Saucer, complete the \"Can't Stop Won't Stop\" Side Quest in Chapter 13, beat Sephiroth in 3D Brawler, then buy for 2,000 GP.",
+    "number": 84,
+    "isCollected": false
+  },
+  {
+    "title": "No. 85 Dio's Autograph",
+    "description": "At The Gold Saucer, win every challenge in the Musclehead Colosseum, then buy for 2,000 GP.",
+    "number": 85,
+    "isCollected": false
+  },
+  {
+    "title": "No. 86 ''Loveless'' Poster",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 86,
+    "isCollected": false
+  },
+  {
+    "title": "No. 87 Save Crystal",
+    "description": "At The Gold Saucer, buy for 30 GP.",
+    "number": 87,
+    "isCollected": false
+  },
+  {
+    "title": "No. 88 - Rufus Shinra Cutout",
+    "description": "In Chapter 4, take a good picture of the green Riot Team during “No I in Team”. They’re outside on the street, close to the Item and Materia shops.",
+    "number": 88,
+    "isCollected": false
+  }
+]
