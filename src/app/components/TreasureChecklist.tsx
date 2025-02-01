@@ -62,7 +62,7 @@ export default function TreasureChecklist() {
         </div>
         <button
           className="bg-red-500 rounded p-4 my-2"
-          onClick={(e) => {
+          onClick={() => {
             alreadyCollectedTreasureNumbers = [];
             setVisibleTreasures(treasures);
             localStorage.setItem(
