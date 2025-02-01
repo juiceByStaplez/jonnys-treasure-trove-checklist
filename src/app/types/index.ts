@@ -3,5 +3,4 @@ export type Treasure = {
   description: string;
   number: number;
   isCollected: boolean;
-  isSearchedFor: boolean;
 };
