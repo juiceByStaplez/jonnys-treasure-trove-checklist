@@ -75,12 +75,11 @@ export default function TreasureChecklist() {
         </button>
       </div>
       {visibleTreasures.map((t, i) => {
-        const bgClass = t.isSearchedFor ? "bg-orange-800" : "bg-slate-800";
         return (
           <Fragment key={i}>
             {!t.isCollected && (
               <div
-                className={`treasure-list-grid grid ${bgClass} rounded justify-between p-4 mt-1 w-full`}
+                className={`treasure-list-grid grid bg-slate-800 rounded justify-between p-4 mt-1 w-full`}
               >
                 <div className="flex">
                   <input
